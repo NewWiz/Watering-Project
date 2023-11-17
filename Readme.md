@@ -1,3 +1,3 @@
 # Watering-Project
  
-An Arduino based automated watering project. An overview can be found at https://www.youtube.com/watch?v=GpzEVzScIM4.
+An Arduino based automated watering project that I did for my Capstone project 2021.
